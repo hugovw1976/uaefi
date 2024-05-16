@@ -57,6 +57,7 @@
 "M3","H2","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
 "211PL562L0011","J1","uaefi-main:211PL562L0011_2",""
 "USB_B_Mini","J2","hellen-one-common:USB-MINI-B-VERTICAL",""
+"5569-06A2","J3","Connector_Molex:Molex_Mini-Fit_Jr_5569-06A2_2x03_P4.20mm_Horizontal","C293509"
 "Conn_01x06","J6","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","C37208"
 "Conn_01x05_Male","J7","Connector_Molex:Molex_SPOX_5267-05A_1x05_P2.50mm_Vertical",""
 "USB_C","J9","kicad6-libraries:USB_C","C2927038"
