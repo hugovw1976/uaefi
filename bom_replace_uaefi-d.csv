@@ -48,8 +48,8 @@ C133,"1u","C0603","C113807"
 #mux
 "U755,U756","WAS3157B-6","SOT-363","C213161"
 
-# availability and cost reduction
-J3,"5569-06A2","2x3P 2 4.2mm 4.2mm 3 Brass Push-Pull","C190915"
+# DNP CONNECTOR 
+J3,
 
 # Q1 options
 # ZXMS6005SGTA C174042
