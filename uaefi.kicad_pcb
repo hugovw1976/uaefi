@@ -15900,11 +15900,10 @@
     (property "LCSC" "C293509")
     (property "Sheetfile" "uaefi.kicad_sch")
     (property "Sheetname" "")
-    (property "exclude_from_bom" "")
     (property "ki_description" "Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)")
     (property "ki_keywords" "connector")
     (path "/085387ef-4c88-46a9-a9ab-c92f307f2668")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole)
     (fp_text reference "J3" (at 4.475 -9.3 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3868130c-e219-42d6-b6a9-ed9796a56856)
