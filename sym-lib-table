@@ -25,4 +25,5 @@
   (lib (name "MPX-4_MAP")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/MPX-4_MAP.kicad_sym")(options "")(descr ""))
   (lib (name "JDY-33")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/JDY-33.kicad_sym")(options "")(descr ""))
   (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/kicad6-libraries/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "motor-driver")(type "KiCad")(uri "C:/Users/hugov/OneDrive/Escritorio/hellen-one-master/modules/motor-driver/0.1/motor-driver.kicad_sym")(options "")(descr ""))
 )

@@ -1,6 +1,6 @@
 # Ultra Affordable EFI
 
-🟢[$175 base model rusEFI store](https://www.shop.rusefi.com/shop/p/uaefi-ultra-affordable-efi)🟢
+🟢[$100 base model rusEFI store](https://www.shop.rusefi.com/shop/p/uaefi-ultra-affordable-efi)🟢
 
 ## Community Support
 
@@ -42,6 +42,3 @@ A: Nope, that's normal nothing to worry about click 'Continue'.
 
 A: fabricate with STM32F42xVI firmware would defect extra RAM and give you extra Lua. Once your script does not fit into STM32F42xVI it's F7 time or help us leverage F413.
 
-### Q: I've place an order with JLCPCB and I see scary looking wrong orientation?
-
-A: that's expected. See [boards/uaefi-c/board](boards/uaefi-c/board) ``Original*.png`` files and ``Produce*.png`` after JLCPCB manual review process.
