@@ -17406,7 +17406,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "R42 Electronics" (at 142.437 111.207 90) (layer "F.SilkS") (tstamp 82ad643c-77b2-4071-abff-57e5368e06c7)
-    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify left bottom))
   )
   (gr_text "To enable Hall mode on VR9924-, populate R1" (at 70.477 46.442) (layer "F.SilkS") (tstamp 83cf36d0-dc3d-42c5-87da-6afcb580810e)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
