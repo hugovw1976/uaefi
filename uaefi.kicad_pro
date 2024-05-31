@@ -57,6 +57,8 @@
         }
       ],
       "drc_exclusions": [
+        "annular_width|55590000|121280000|1f1e2017-2263-4641-aefe-60148a9ae397|00000000-0000-0000-0000-000000000000",
+        "annular_width|78450000|121280000|6c465d7b-4ed2-462c-bf79-837e6b5d433c|00000000-0000-0000-0000-000000000000",
         "clearance|135429500|57892000|e9121157-079e-4368-8b49-833e1a16a246|94fd6ab9-bdd3-437b-9c18-a6250db0dd13",
         "clearance|142799500|57892000|c429fbad-61a9-45f6-bc43-60f44b8bda7d|941b90cf-128c-4243-919f-6c743ad3638d",
         "clearance|150024500|57892000|fcdd6e1f-49ce-4c68-a7c7-9d7aaf8ac97c|1c1a4927-6918-415d-b903-a9f9114c89b1",
@@ -136,7 +138,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.2999,
         "min_track_width": 0.15,
-        "min_via_annular_width": 0.0,
+        "min_via_annular_width": 0.15,
         "min_via_diameter": 0.29999,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
@@ -206,6 +208,10 @@
         },
         {
           "diameter": 0.5,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.6,
           "drill": 0.3
         },
         {
@@ -420,12 +426,12 @@
       "different_unit_net": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
-      "endpoint_off_grid": "warning",
+      "endpoint_off_grid": "ignore",
       "extra_units": "error",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
-      "lib_symbol_issues": "warning",
+      "lib_symbol_issues": "ignore",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
